@@ -1,0 +1,50 @@
+
+w	java:S116"]Rename this field "QUESTION_1_LEVEL_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â´Ãşÿÿÿÿ
+s	java:S116"^Rename this field "QUESTION_1_ANSWER_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş÷Ü
+x	java:S116"^Rename this field "QUESTION_1_ANSWER_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úœ¢œùÿÿÿÿ
+x	java:S116"^Rename this field "QUESTION_1_ANSWER_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸±äÅÿÿÿÿÿ
+x	java:S116"^Rename this field "QUESTION_1_ANSWER_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯û²§üÿÿÿÿ
+u	java:S116"[Rename this field "QUESTION_1_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÀ”šıÿÿÿÿ
+w	java:S116	"]Rename this field "QUESTION_2_LEVEL_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“óğÓûÿÿÿÿ
+x	java:S116
+"^Rename this field "QUESTION_2_ANSWER_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü™„ÿÿÿÿÿ
+s	java:S116"^Rename this field "QUESTION_2_ANSWER_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¸ï
+x	java:S116"^Rename this field "QUESTION_2_ANSWER_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î§Õóùÿÿÿÿ
+x	java:S116"^Rename this field "QUESTION_2_ANSWER_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öšäñøÿÿÿÿ
+p	java:S116"[Rename this field "QUESTION_2_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ï‡È
+q	java:S116"]Rename this field "QUESTION_3_LEVEL_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŸÜ8
+s	java:S116"^Rename this field "QUESTION_3_ANSWER_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óı‡¶
+s	java:S116"^Rename this field "QUESTION_3_ANSWER_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¶ú
+s	java:S116"^Rename this field "QUESTION_3_ANSWER_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•ÉÃ
+s	java:S116"^Rename this field "QUESTION_3_ANSWER_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ø®É
+u	java:S116"[Rename this field "QUESTION_3_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÂ·¥úÿÿÿÿ
+w	java:S116"]Rename this field "QUESTION_4_LEVEL_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÓÊõûÿÿÿÿ
+s	java:S116"^Rename this field "QUESTION_4_ANSWER_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¸´
+s	java:S116"^Rename this field "QUESTION_4_ANSWER_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËáÁ¢
+s	java:S116"^Rename this field "QUESTION_4_ANSWER_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üªö—
+s	java:S116"^Rename this field "QUESTION_4_ANSWER_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úé÷×
+p	java:S116"[Rename this field "QUESTION_4_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â”³·
+w	java:S116"]Rename this field "QUESTION_5_LEVEL_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àØ¡´ÿÿÿÿÿ
+x	java:S116"^Rename this field "QUESTION_5_ANSWER_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜˜Öÿÿÿÿÿ
+s	java:S116 "^Rename this field "QUESTION_5_ANSWER_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•øµé
+x	java:S116!"^Rename this field "QUESTION_5_ANSWER_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ğ€Şüÿÿÿÿ
+x	java:S116""^Rename this field "QUESTION_5_ANSWER_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¬ü¾üÿÿÿÿ
+u	java:S116#"[Rename this field "QUESTION_5_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”·ßüÿÿÿÿ
+w	java:S116%"]Rename this field "QUESTION_6_LEVEL_6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞöÆˆıÿÿÿÿ
+s	java:S116&"^Rename this field "QUESTION_6_ANSWER_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÅ·ö
+s	java:S116'"^Rename this field "QUESTION_6_ANSWER_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ğ×—
+x	java:S116("^Rename this field "QUESTION_6_ANSWER_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ªÿÿÿÿÿ
+s	java:S116)"^Rename this field "QUESTION_6_ANSWER_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ì¼
+p	java:S116*"[Rename this field "QUESTION_6_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôû®Û
+w	java:S116,"]Rename this field "QUESTION_7_LEVEL_7" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÕ÷ıûÿÿÿÿ
+s	java:S116-"^Rename this field "QUESTION_7_ANSWER_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Û„¼
+x	java:S116."^Rename this field "QUESTION_7_ANSWER_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÌââşÿÿÿÿ
+x	java:S116/"^Rename this field "QUESTION_7_ANSWER_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êœ……ÿÿÿÿÿ
+s	java:S1160"^Rename this field "QUESTION_7_ANSWER_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ş¬‰
+p	java:S1161"[Rename this field "QUESTION_7_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èâ–Ÿ
+r	java:S1163"]Rename this field "QUESTION_8_LEVEL_8" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùØË‡
+s	java:S1164"^Rename this field "QUESTION_8_ANSWER_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ˆ±†
+s	java:S1165"^Rename this field "QUESTION_8_ANSWER_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÄù
+r	java:S1166"^Rename this field "QUESTION_8_ANSWER_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥  
+s	java:S1167"^Rename this field "QUESTION_8_ANSWER_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õù¸ñ
+p	java:S1168"[Rename this field "QUESTION_8_MONEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şí¤ç
