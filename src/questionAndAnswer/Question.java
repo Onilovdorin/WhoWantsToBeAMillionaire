@@ -105,4 +105,12 @@ public class Question {
         }
         return wrongAnswers;
     }
+
+    public String getQuestion() {
+        return quetionText;
+    }
+
+    public Answer[] getAnswer() {
+        return answers;
+    }
 }

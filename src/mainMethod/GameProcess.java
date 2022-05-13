@@ -1,8 +1,6 @@
 package mainMethod;
 
-import help.FiftyFiftyHelp;
 import questionAndAnswer.Answer;
-import questionAndAnswer.AnswerSequence;
 import questionAndAnswer.Question;
 
 import java.util.Scanner;
@@ -11,7 +9,6 @@ public class GameProcess {
     Question[] allQuestions;
 
     public void startGame() {
-
         allQuestions = initQuestion();
         Scanner scanner = new Scanner(System.in);
         System.out.println("|-----------------------------------|");
@@ -21,6 +18,13 @@ public class GameProcess {
         int level = 1;
         int totalMoney = 0;
         while (answer && level <= 10) {
+//            Question question = getQuestionByLevel(level);
+//            System.out.println(question.getQuestion());
+//            for (Answer myAnswer : question.getAnswer()) {
+//                System.out.println(myAnswer.answerSequence() + " : " + myAnswer.getAnswer());
+//            }
+//            System.out.println("Raspunsul este: ");
+//            String gamerAnswer = scanner.nextLine();
             Question question = getQuestionByLevel(level);
             if (question != null) {
                 System.out.println("-------------");

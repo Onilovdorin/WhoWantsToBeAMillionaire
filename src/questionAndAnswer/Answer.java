@@ -40,4 +40,7 @@ public class Answer {
         return answerIsCorrect;
     }
 
+    public String answerSequence() {
+        return answerSequence;
+    }
 }
